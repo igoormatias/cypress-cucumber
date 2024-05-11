@@ -1,0 +1,47 @@
+# Arquivos gerados pelo ambiente de desenvolvimento
+/node_modules
+/.pnp
+.pnp.js
+
+# Arquivos de build
+/build
+/dist
+
+# Arquivos temporários
+/.cache
+/.parcel-cache
+/.next
+/.nuxt
+/yarn-error.log
+npm-debug.log*
+
+# Arquivos de ambiente
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependências específicas do editor
+/.vscode
+/.idea
+
+# Arquivos de log e debug
+/logs
+/debug.log
+
+# Arquivos de imagem e mídia
+.DS_Store
+Thumbs.db
+
+# Arquivos de testes e resultados do Cypress
+/cypress/videos
+/cypress/screenshots
+
+# Arquivos de cache e estado de depuração
+.cypress-cache
+cypress-results.json
+cypress-debug.log
+
+# Outros
+*.log
+*.bak
