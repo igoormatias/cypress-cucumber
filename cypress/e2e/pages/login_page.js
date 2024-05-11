@@ -12,8 +12,7 @@ console.log('url', url);
 class LoginPage {
   accessHomePage() {
     cy.visit(url);
-    cy.wait(20000);
-    alert('teste')
+    cy.wait(2000);
   }
 
   accessLoginPage() {
