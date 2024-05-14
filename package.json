@@ -1,6 +1,9 @@
 {
   "devDependencies": {
     "cypress": "^13.9.0"
+  },
+  "scripts": {
+    "test":"npx cypress open"
   }, 
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": false,
