@@ -10,4 +10,4 @@ Funcionalide para realizar variados logins no sistema PHP Travels
     Examples:
       | scenario          | email               | password | message                    |
       | Login com sucesso | user@phptravels.com | demouser | Login realizado com sucesso |
-      | Login sem sucesso | Julio               |    12323 | Login com senha incorreta   |
+      | Login sem sucesso | Julio@gmail.com               |    12323 | Login com senha incorreta   |
